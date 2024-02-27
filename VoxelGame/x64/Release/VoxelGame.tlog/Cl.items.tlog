@@ -1,0 +1,13 @@
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\game\event_handler.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\event_handler.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\game\game_loop.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\game_loop.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\main.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\main.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\render\cube_renderer.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\cube_renderer.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\render\image_handling.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\image_handling.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\render\shaderIO.c;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\shaderIO.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\render\shader_handler.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\shader_handler.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\render\texture_atlas.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\texture_atlas.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\render\text_render.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\text_render.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\world\chunk.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\chunk.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\world\generation\generation.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\generation.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\world\generation\terrain.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\terrain.obj
+C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\src\world\world.cpp;C:\Users\Augustus\source\repos\VoxelGame\VoxelGame\x64\Release\world.obj

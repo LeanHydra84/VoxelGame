@@ -1,0 +1,30 @@
+﻿LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 619 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4286: symbol '__glewLinkProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewDeleteShader' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewShaderSource' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewAttachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewUniform1f' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewUniform1i' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewCreateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewCreateShader' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewCompileShader' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderiv' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewUseProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'shader_handler.obj'
+LINK : warning LNK4286: symbol '__glewGenerateMipmap' defined in 'glew32s.lib(glew.obj)' is imported by 'texture_atlas.obj'
+LINK : warning LNK4286: symbol '__glewDeleteBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewGenBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewGenVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewBufferData' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewDeleteVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewBindBuffer' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewVertexAttribPointer' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewBindVertexArray' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+LINK : warning LNK4286: symbol '__glewEnableVertexAttribArray' defined in 'glew32s.lib(glew.obj)' is imported by 'chunk.obj'
+  VoxelGame.vcxproj -> C:\Users\Augustus\source\repos\VoxelGame\x64\Release\VoxelGame.exe
